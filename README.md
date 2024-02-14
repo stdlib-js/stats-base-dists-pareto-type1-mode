@@ -67,7 +67,7 @@ The [mode][mode] for a [Pareto (Type I)][pareto-distribution] random variable wi
 ## Usage
 
 ```javascript
-import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-pareto-type1-mode@esm/index.mjs';
+import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-pareto-type1-mode@v0.2.0-esm/index.mjs';
 ```
 
 #### mode( alpha, beta )
@@ -143,7 +143,7 @@ v = mode( 1.0, -1.0 );
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
 import EPS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-eps@esm/index.mjs';
-import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-pareto-type1-mode@esm/index.mjs';
+import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-pareto-type1-mode@v0.2.0-esm/index.mjs';
 
 var alpha;
 var beta;
