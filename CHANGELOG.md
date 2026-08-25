@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-24)
+## Unreleased (2026-08-25)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`fae5d5a`](https://github.com/stdlib-js/stdlib/commit/fae5d5a4886002a7c1f1e69ec0542099213f598d) - **test:** migrate `stats/base/dists/pareto-type1/mode` to ULP-based assertions [(#14600)](https://github.com/stdlib-js/stdlib/pull/14600) _(by Athan Reines)_
 -   [`2b13bb1`](https://github.com/stdlib-js/stdlib/commit/2b13bb1a58ff9778770ef55dadc2b4b1ed675de0) - **refactor:** rename internal variable [(#13089)](https://github.com/stdlib-js/stdlib/pull/13089) _(by Philipp Burckhardt)_
 -   [`3badc70`](https://github.com/stdlib-js/stdlib/commit/3badc707161e55feca4501c7d031171a7813eb39) - **bench:** refactor to use string interpolation in `stats/base/dists/pareto-type1` [(#10467)](https://github.com/stdlib-js/stdlib/pull/10467) _(by Vishal Gaikwad)_
 -   [`f38e8a7`](https://github.com/stdlib-js/stdlib/commit/f38e8a7b433e0e9888eb57c83f4374073089ad85) - **docs:** clean-up parameters in Julia fixtures scripts _(by Philipp Burckhardt)_
@@ -26,8 +27,9 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Philipp Burckhardt
 -   Vishal Gaikwad
 
